@@ -1,2 +1,1 @@
-#!/bin/bash
-git triggered
+echo 'git triggered'
