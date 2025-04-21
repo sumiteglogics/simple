@@ -1,1 +1,1 @@
-echo 'git triggered'
+echo 'git triggered by jenkins'
